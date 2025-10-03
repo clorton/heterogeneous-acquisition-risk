@@ -1,0 +1,15 @@
+[project]
+name = "heterogeneous-acquisition-risk"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "alive-progress>=3.3.0",
+    "jupyter>=1.1.1",
+    "matplotlib>=3.10.6",
+    "numba>=0.62.1",
+    "numpy>=2.3.3",
+    "taichi>=1.7.4",
+    "tqdm>=4.67.1",
+]
