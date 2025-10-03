@@ -1,0 +1,6 @@
+alive-progress
+jupyter
+matplotlib
+numba
+numpy
+tqdm
